@@ -51,4 +51,8 @@ mvn compile jib:build
 -------------------------------------------------------------------------
 Image built with jib 
 
+<img width="1042" alt="petclinic-screenshot" src="https://github.com/vicknesh22/Build_using_Jib/blob/master/jib.png">
+
 Image build using multistage docker file
+
+<img width="1042" alt="petclinic-screenshot" src="https://github.com/vicknesh22/Build_using_Jib/blob/master/with_multi.png">
